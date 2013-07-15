@@ -1,0 +1,15 @@
+{
+	"name": "taptoscroll",
+	"fullName": "Tap To Scroll",
+	"version": "1.0.0",
+	"keywords": [
+       "ios",
+       "statusTap"
+   ],
+   "description": "Track your audience with smart analytics",
+   "joshfire": {
+   		"hooks": [
+   		  "plugman"
+   		]
+   }
+}

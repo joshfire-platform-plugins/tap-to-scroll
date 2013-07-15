@@ -1,0 +1,3 @@
+[submodule "cordova-statusTap"]
+	path = cordova-statusTap
+	url = https://github.com/joshfire/cordova-statusTap.git
